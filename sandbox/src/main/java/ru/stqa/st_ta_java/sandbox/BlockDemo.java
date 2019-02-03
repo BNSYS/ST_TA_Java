@@ -1,3 +1,5 @@
+package ru.stqa.st_ta_java.sandbox;
+
 /*
 For demo
 */
